@@ -3,10 +3,6 @@
 ## Description
 The Pocket Monsters Trading Card Game (⚡🐭) is a digital adaptation of the popular Pokémon trading card game. It offers a digital taste of collecting your favourite and rare Pokémon. Each virtual trading card has a different value (virtual) according to its rarity.
 
-## Bugs/Issues
-I am aware that using my program on Mac OS is making the ASCII art different/weird. Possible fix planned for later.
-
-
 ## Features
 - Buy virtual Pokémon trading cards.
 - Sell your Pokémon cards to earn virtual money.
@@ -34,6 +30,9 @@ I am aware that using my program on Mac OS is making the ASCII art different/wei
 - Offer more choices and options for collecting and trading Pokémon cards.
 - Enhance the user interface and graphics.
 - Implement multiplayer functionality for trading with other players.
+
+## Bugs/Issues
+I am aware that using my program on Mac OS is making the ASCII art different/weird. Possible fix planned for later.
 
 ## Future Plans
 In the far future, I aim to make the trading cards in the Pocket Monsters Trading Card Game as Non-Fungible Tokens (NFTs). This will allow players to truly own their digital Pokémon cards and trade them securely on blockchain platforms.
