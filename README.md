@@ -18,7 +18,7 @@ I am aware that using my program on Mac OS is making the ASCII art different/wei
 - Multiple card tiers, including Common, Rare, Super Rare, Legendary, and Mythic.
 
 ## Demo
-[Video Demo](https://youtu.be/sDJey0_UBY8)
+[Video Demo](https://www.youtube.com/watch?v=8qnZqhPJ_20)
 
 ## Usage
 1. Launch the program.
